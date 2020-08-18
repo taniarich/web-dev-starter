@@ -1,3 +1,3 @@
-let times99 = 99;
-showMessage(times99);
-console.log(times99);
+let amount = 20 - (-2);
+
+showMessage(amount);
