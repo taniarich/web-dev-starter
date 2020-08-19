@@ -1,3 +1,4 @@
-let amount = 20 - (-2);
+let message = 'Hello';
+message = message.subString(1);
 
-showMessage(amount);
+showMessage(message);
